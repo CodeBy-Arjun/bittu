@@ -1,0 +1,9 @@
+{
+  "name": "Bittu – Next-Gen AI Voice Assistant",
+  "description": "An intelligent, next-generation AI voice assistant designed to communicate, think, and respond like a human, featuring advanced NLP, generative AI tools, and a pro-level graphical user interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
